@@ -6,7 +6,7 @@ Computer Science student at **UFRGS** (Porto Alegre, Brazil), graduating in 2027
 
 - 🔬 Undergraduate Research Assistant on **OntoKG** (UFRGS × Petrobras), where I also maintain the Kubernetes server the project runs on
 - 📄 Co-author of *"When Axioms Become Tools"* (Ontobras) <!-- , available on [arXiv]([link]) -->
-- 🧠 Working on question decomposition for **Text-to-SPARQL** (QALD-10, LC-QuAD)
+- 🧠 Working on question decomposition for **Text-to-SPARQL**
 - ⚡ Certified in [Accelerated Computing with Modern CUDA C++](https://learn.nvidia.com/certificates?id=ljo6c6WiTFqK8ZeMhiOL0Q) by NVIDIA
 
 ## Interests
