@@ -21,10 +21,6 @@ Knowledge Graphs · NLP · Parallel Computing · Distributed Systems · Infrastr
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 
-## Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/vpianezzola/)
-
 <!--
 **vpianezzola/vpianezzola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
